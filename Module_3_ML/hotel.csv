@@ -1,0 +1,15 @@
+Hotel,Tariff,Luxury Rating (in stars),Customer Review (out of 5),Location,Revenue (in Billions),Class
+Octave,800,3,4.2,Beach,1.52,Luxury
+Inn Field,700,2,4.5,Mountain,0.74,Standard
+Harmond,865,4,5,Beach,1.53,Luxury
+Raycorp,699,3,3.9,Beach,1.13,Superior
+Royal,533,3,3.2,Beach,1.22,Superior
+Eyefi,899,3,5,Highway,0.67,Economy
+Talwart,789,4,3.3,Beach,1.45,Luxury
+Hoplite,566,4,3.4,Beach,1.42,Luxury
+Tag,788,5,2.5,Beach,1.05,Superior
+Yayfire,778,5,3.5,Highway,0.56,Economy
+Wallwart,458,4,3.6,Beach,0.92,Standard
+Turcot,889,4,4.7,Mountain,0.72,Standard
+Hat,789,5,3.8,Mountain,0.73,Standard
+Hogwart,899,5,4.2,Highway,0.54,Economy
